@@ -3,14 +3,14 @@
  * Started by Taylor on 5/11/16.
  */
 public class GroceryItem {
-    // todo: create an id, default it to 1
+    //   create an id, default it to 1
     int id = 1;
 
 
-    // todo: create a property for name
+    //   create a property for name
     String itemName;
 
-    // todo: create a property for quantity
+    //   create a property for quantity
     //made it a string so that you can enter "half a dozen" or "1.4 lbs"
     String itemQuantity;
 
